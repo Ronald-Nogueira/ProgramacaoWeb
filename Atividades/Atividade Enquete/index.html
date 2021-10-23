@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title> Atividade - Enquete </title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="all">
+		<div class="enquete">
+			Você é favor do Lockdown, em cidades com situação de colapso no sistema de saúde?
+		</div>
+
+
+
+		<div class="votar">
+			<button type="button" class="btn btn-green" onclick="votouSim(1)"> Sim </button>
+			<button type="button" class="btn btn-red" onclick="votouNao(1)"> Não </button>
+		</div>
+
+
+
+		<div class="resultado">
+			<span class="result"> Resultado </span> <br>
+			<span class="result"> Sim </span>
+			<div class="sim"> 0 </div>
+			<span class="result"> Não </span>
+			<div class="nao"> 0 </div>
+		</div>
+	</div>
+
+
+	<script src="script.js"></script>
+</body>
+</html>

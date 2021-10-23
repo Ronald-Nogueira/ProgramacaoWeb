@@ -1,0 +1,122 @@
+.all{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.enquete{
+	width: 600px;
+	height: 200px;
+	background-color: #4F4F4F;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 1.9em;
+	display: flex;
+	align-items: center;
+	color: #CFCFCF;
+	font-family: 'Quicksand', sans-serif;
+	
+}
+
+
+body{
+	background-color: #2b2628;
+}
+
+
+
+.votar{
+	display: flex;
+	padding: 10px;
+	padding-bottom: 100px;
+}
+
+
+.resultado > .result{
+	font-size: 1.5em;
+	color: #CFCFCF;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+
+
+.sim{
+	color: white;
+	margin: 5px;
+	background-color: #006400;
+	height: 1.5rem;
+	width: 0.5rem;
+}
+
+
+.nao{
+	color: white;
+	margin: 5px;
+	background-color: #CD0000;
+	height: 1.5rem;
+	width: 0.5rem;
+}
+
+
+
+button{
+	margin: 7px;
+	height: 3rem;
+	width: 12rem;
+	color: #CFCFCF;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+
+.btn:focus, .btn:: -moz-focus-inner{
+	outline: none;
+	border: none;
+
+}
+
+.btn{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+.btn-green{
+	background-color: #006400;
+	box-shadow: 0 10px 0 #003f00;
+
+}
+
+.btn-green:hover{
+	background: #006000;
+	box-shadow: 0 10px 0 #003f00;
+
+
+}
+
+
+
+.btn-red{
+	background-color:  #d20000;
+	box-shadow: 0 10px 0 #8B0000;
+}
+
+.btn-red:hover{
+	background-color: #CD0000;
+}
+
+.btn-green:active, .btn-red:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+}

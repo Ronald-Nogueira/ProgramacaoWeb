@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"marin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"pro",
+				"produtos"
+			],
+			[
+				"hr",
+				"hr\tTag"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"lang",
+				"lang\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"lan",
+				"lang\tAttr"
+			],
+			[
+				"BOD",
+				"BODY\tTag"
+			],
+			[
+				"hei",
+				"height\tAttr"
+			],
+			[
+				"wid",
+				"width\tAttr"
+			],
+			[
+				"html",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4600,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 3201,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Atividades!/Atividade Enquete/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/TechSports/css/estilo.css",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/TechSports/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Atividades!/Atividade/index.html.txt",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Atividades!/Atividade JS/switch case/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Atividades!/Atividade JS/if else/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Atividades!/Atividade JS/if else/index.html.txt",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/Meu Site sublime/estilo.css",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/Meu Site sublime/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/estilo.css",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/Meus Projetos!/estilo.css.txt",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/index.html",
+		"/C/Users/ronal/OneDrive/Documentos/html & CSS/website.html",
+		"/C/Users/ronal/OneDrive/Área de Trabalho/Counter-Strike Global Offensive.url",
+		"/C/Users/ronal/OneDrive/Documentos/WebSite.html",
+		"/C/Users/ronal/OneDrive/Área de Trabalho/index.html",
+		"/C/Users/ronal/OneDrive/Área de Trabalho/programação"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"voc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"voc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

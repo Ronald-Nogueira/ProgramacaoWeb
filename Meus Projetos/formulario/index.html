@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> www.Formulário de contat.com </title>
+<link rel="stylesheet" type="text/css" href="bootstrap/CSS/bootstrap.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="slogan">
+    <h1>Entre em contato conosco</h1>
+</div>
+
+
+<style type="text/css">
+
+
+body{
+background-color: #222
+}
+
+ h1{
+    padding: 40px;
+    color: white;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-shadow: 4px 4px 7px rgba(0, 0, 0, 0.555);
+    text-align: center;
+ 
+}
+main{
+    background-color:rgba(20, 20, 20, 0.753);
+    width: 1100px;
+    padding: 50px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.522);
+}
+
+.form-control, .form-control-textarea{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.282);
+
+
+}
+.texto, .input-group-text{
+    color: rgb(56, 56, 56);
+    font-family:'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.form-control, .form-control-textarea{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.316);
+
+}
+
+.btn-primary{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #222;
+    border: #222;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.522);
+}
+.btn-primary:hover{
+    background-color: black;
+    transition: .5s ease;
+
+}
+
+.input-group-text{
+    background-color: rgba(0, 0, 0, 0.282);
+  
+}
+
+.form-control-textarea{
+    height: 240px;
+    width: 240px;
+}
+</style>
+<main>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+    <section>
+    <div class="container">
+    <div class="row">
+    <div class="col-6">
+    
+    <div class="form-floating mb-3">
+    
+    <input type="name" class="form-control" id="floatingInput" placeholder="Name Example">
+    <label for="floatingInput" class="texto">Digite seu nome</label>
+    </div>
+    <br>
+    <div class="form-floating">
+    <input type="email" class="form-control" id="floatingPassword"
+    placeholder="name@example.com">
+    <label for="floatingPassword" class="texto">Email</label>
+    </div>
+    <br>
+    <div class="form-floating mb-3">
+    <input type="number" class="form-control" id="floatingInput" placeholder="1234-5678">
+    <label for="floatingInput" class="texto">Telefone</label>
+    </div>
+    
+    </div>
+    <div class="col-6">
+    <div class="input-group">
+    
+    <span class="input-group-text" >Digite uma mensagem</span>
+    <textarea class="form-control-textarea" aria-label="With textarea"></textarea>
+    
+    </div>
+    </div>
+    </div>
+    <button type="button" class="btn btn-primary">Confirmar</button>
+    </div>
+    </section>
+</main>
+</body>
+</html>

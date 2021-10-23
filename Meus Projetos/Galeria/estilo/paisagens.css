@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
+:root {
+    --cor1: #878C61;
+    --cor2: #435944;
+    --cor3: #254027;
+    --cor4: #172621;
+    --cor5: #07090D;
+
+    --fonte-padrao: sans-serif, helvetica;
+    --fonte-chamativa: 'Poppins', sans-serif;
+}
+body{
+    background: #414a4c10;
+    
+}
+h1{
+    font-family: var(--fonte-chamativa);
+}
+    
+
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.menu{
+    position: absolute;
+    color: white;
+    backdrop-filter: blur(3px) ;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+
+.menu h1{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: var(--fonte-chamativa);
+    font-size: 1.5em;
+    padding-left: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.385);
+    
+   
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+
+.menu nav{
+    margin-right: 30px;
+}
+
+.menu nav a{
+    
+    text-decoration: none;
+    color: white;
+    font-family: var(--fonte-chamativa);
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.menu nav a:hover{
+    border-radius: 5px;
+    background-color: #878C61;
+    color: #07090D;
+}
+
+.banner{
+    width: 100%;
+}
+
+.imagem img {
+    width: 100%;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.426);
+}
+
+.slogan{
+    position: absolute;
+    font-size: 2em;
+    text-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.474);
+    background-color: rgba(0, 0, 0, 0.116);
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    top: 240px;
+
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    box-shadow: 10px 0px 10px 10px rgba(0, 0, 0, 0.44);
+    backdrop-filter: blur(1px);
+}
+
+article{
+
+    padding-top: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.img-vertical{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    padding: 7px;
+    width: 220px;
+    height: 300px;
+}
+
+.img{
+
+    width: 300px;
+    height: 200px;
+    padding: 7px;
+    border-radius: 15px ;
+}
+
+.img:hover, .img-vertical:hover{
+    padding: 10px;  
+    opacity: .8;
+
+
+}

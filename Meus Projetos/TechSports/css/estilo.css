@@ -1,0 +1,299 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+
+
+.menu{
+	display: flex;
+	flex-direction: row;
+	background: #2d3436;
+	justify-content: space-between;
+	align-items: center;
+	font-size: large;
+
+
+
+}
+
+
+
+.menu > nav > a{
+	text-decoration: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #c8d6e5;
+
+
+}
+
+
+
+
+.menu > nav > a:hover{
+	color: #8395a7
+}
+
+
+
+
+
+.menu > img{
+	width: 110px;
+	height:110px;
+}
+
+
+
+
+.banner > img{
+	width: 100%;
+	height: 750px;
+
+}
+
+
+
+
+.slogan > h1{
+	position: absolute;
+	color: #c8d6e5;
+	top: 50%;
+    margin-left: 467px;
+    margin-right: 50px;
+	font-size: 70px;
+	font-family: 'Quicksand', sans-serif;
+
+
+	
+
+	
+}
+
+
+
+.slogan > h3{
+	position: absolute;
+	color: #c8d6e5;
+	top: 64%;
+	left: 530px;
+	font-size: 21px;
+	font-family: 'Quicksand', sans-serif;
+
+
+	
+}
+
+
+
+
+.artigos{
+	padding: 20px;
+	padding-bottom: 20px;
+	background-color: #2d3436;
+	font-family: 'Quicksand', sans-serif;
+
+
+
+}
+
+center > h1{
+	font-size: 40px;
+	font-family: 'Quicksand', sans-serif;
+	color: #c8d6e5;
+	padding-bottom: 20px;
+
+
+}
+
+
+.prod{
+	min-height: 300px;
+	min-width: 250px;
+	padding: 15px;
+}
+
+
+
+.t1{
+	background-image: url(../imagens/imagem004.jfif);
+}
+
+.t2{
+	background-image: url(../imagens/imagem002.jfif);
+}
+
+.t3{
+	background-image: url(../imagens/imagem003.jfif);
+}
+
+.b1{
+	background-image: url(../imagens/imagem005.jfif);
+}
+
+.b2{
+	background-image: url(../imagens/imagem006.jfif);
+}
+
+.b3{
+	background-image: url(../imagens/imagem007.jfif);
+}
+
+
+.produtos{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.t1, .t2, .t3, .b1, .b2, .b3{
+	flex: 1;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	margin: 3px;
+	color: black;
+}
+
+
+
+.sobre{
+	background-color: #7f8c8d;
+}
+
+
+
+
+.descricao{
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+.descricao > h2{
+	margin-top: 10px;
+
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+}
+
+
+
+.descricao > h4{
+
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+
+
+.descricao > div{
+	margin: 10px;
+	margin-bottom: 60px;
+}
+
+
+
+
+.MissaoVisaoValores{
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 20px;
+}
+
+
+.missao, .visao, .valores{
+	flex: 1;
+	padding: 10px;
+	min-width: 300px;
+	height: 200px;
+}
+
+
+
+.missao > h2, .visao > h2, .valores > h2{
+	margin-bottom: 10px;
+
+}
+
+
+hr{
+	width: 15%;
+	margin: auto;
+	height: 3px;
+	color: black;
+	margin-bottom: 15px;
+
+}
+
+
+
+
+
+
+
+.rodape{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	font-size: 18px;
+	padding-top: 60px;
+	padding: 10px;
+	background-color: #636e72;
+	padding-bottom: 30px;
+}
+
+
+
+.rodape > .col-1 > img{
+	width: 300px;
+	height: 300px;
+}
+
+
+
+
+.col-2 > h2{
+	margin-top: 20px;
+	padding-bottom: 40px;
+}
+
+
+
+
+.rodape > .col-1, .rodape > .col-2, .rodape > .col-3{
+	flex: 1;
+	text-align: center;
+	min-width: 300px;
+	height: 350px;
+
+}
+
+
+
+
+.subRodape{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	text-align: center;
+	height: 40px;
+	background-color: black;
+	color: white;
+	font-size: 15px;
+	justify-content: space-around;
+
+}

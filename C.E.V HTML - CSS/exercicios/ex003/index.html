@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>imagens que se adptam</title>
+</head>
+<body>
+    <h1>Imagens Dinamicas</h1>
+    <h3>As imagens se ajustaram ao tamanho da tela</h3>
+
+ 
+        <picture>
+            <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+            <source media="(max-width: 1050px )" srcset="imagens/foto-m.png" type="image/png">
+            <img src="imagens/foto-g.png" alt="Imagem flexivel">
+        </picture>
+
+
+    <h1>Reproduzindo audio</h1>
+    <h3>Reproduçao do audio:</h3>
+
+    <audio src="midia/guanacast-33.mp3" autoplay controls  ></audio>
+
+    <h1>Reproduzindo Videos</h1>
+    <h3>Reprodução do video</h3>
+
+    <video width="700px" controls>
+        <source src="midia/pexels-ambientnature-atmosphere-5969710.mp4" type="video/mp4">
+    </video>
+
+    <br> <br> <br>
+  
+
+    <h3>Incorporação de videos externos!</h3>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DCf2hGxRewQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h1>Exemplo de hover</h1>
+
+    <p>Passe o mause sobre o texto abaixo!</p>
+    <div>
+        Passe o mause aqui!
+        <p>Texto Escondido...</p>
+    </div>
+<br><br><br><br>
+
+
+    
+ 
+
+    
+</body>
+</html>
